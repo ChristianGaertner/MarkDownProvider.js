@@ -1,4 +1,4 @@
-Markdown Provider
-================
+MarkdownProvider.js
+===================
 
 More info very soon!
