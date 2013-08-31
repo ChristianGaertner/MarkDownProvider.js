@@ -80,5 +80,5 @@
         }
     };
 
-console.log('MarkDownProvider booted.');
+    console.log('MarkDownProvider booted.');
 })(jQuery);
